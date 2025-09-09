@@ -5,7 +5,7 @@
 
 ### 🚀 About Me
 I’m currently pursuing my **Master of Science in Artificial Intelligence (MSAI)** at Northeastern University (San Jose).  
-With a strong background in **data science (B.S., Arizona State University, GPA 3.75/4.0)** and hands-on industry experience,  
+With a strong background in **data science (B.S., Arizona State University)** and hands-on industry experience,  
 I love building **AI-powered solutions** that make tech more human, accessible, and impactful.  
 
 ---
