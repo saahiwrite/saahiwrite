@@ -1,30 +1,74 @@
-## Hi there 👋
-<!-- Replace the banner image below with one that matches your style or theme -->
-<p align="center">
-  <img src="https://via.placeholder.com/800x200.png?text=Master+of+Science+in+Artificial+Intelligence" alt="MSAI Banner">
-</p>
-
-<h1 align="center">Hi, I'm Saahithi Mallarapu 👋</h1>
-<h3 align="center">MSAI Student @ Northeastern University</h3>
+<h1 align="center">Hi, I'm Saahithi 👋</h1>
+<h3 align="center">MSAI Student @ Northeastern University | Data Scientist | AI Explorer</h3>
 
 ---
 
-###  About Me
-
-I'm currently pursuing a Master of Science in Artificial Intelligence at **Northeastern University**, specializing in (e.g.) multimodal learning, emotion detection, ML modeling, Data Science and AI. Passionate about applying AI creatively and responsibly to build intuitive, impactful solutions.
-
----
-
-###  Education
-
-| Degree | Institution | Year |
-|--------|-------------|------|
-| M.S. in Artificial Intelligence | Northeastern University | 2025 (anticipated) |
-| B.Sc. in Data Science | Arizona State University | 2024 |
+### 🚀 About Me
+I’m currently pursuing my **Master of Science in Artificial Intelligence (MSAI)** at Northeastern University (San Jose).  
+With a strong background in **data science (B.S., Arizona State University, GPA 3.75/4.0)** and hands-on industry experience,  
+I love building **AI-powered solutions** that make tech more human, accessible, and impactful.  
 
 ---
 
-###  Projects
+### 🛠️ Skills & Certifications
+**Languages:** Python, R, SQL, NoSQL, Java, JavaScript, C++, C, MATLAB  
+**Frameworks & Tools:** scikit-learn, PyTorch, TensorFlow, Hugging Face, React, Pandas, Git  
+**Cloud:** Azure (Bot Framework, AutoML, Workspace), AWS (Lex, Firefly), Google Cloud (BigQuery, Vertex AI, AutoML)  
+**Machine Learning:** CNNs, RNNs, Transformers, Time-Series, Reinforcement Learning, Retrieval-Augmented Generation  
+
+**Certifications:**  
+- DeepLearning.AI: Open Source Models with Hugging Face, LLMOps, RLHF, Finetuning LLMs  
+- Coursera: Google Data Analytics, Health Data Science (Johns Hopkins)  
+
+---
+
+### 💼 Work Experience
+<details>
+<summary>📌 EmmyGency (Data Scientist) | Jul 2023 - Dec 2024</summary>
+- Built a **15B-parameter small language model** for cardiovascular emergency response.  
+- Developed an **image-to-text medical symptom detection tool** with Django + Firebase.  
+- Enhanced model efficiency with RL + data augmentation (reduced processing by 30%).  
+</details>
+
+<details>
+<summary>📌 Bank of America (Technology Analyst) | May 2021 - Jan 2023</summary>
+- Designed scalable reporting systems, improving cross-pipeline analytics by 15%.  
+- Created automated unstructured data analysis pipelines with Python + SQL.  
+- Led a cross-functional team in a company innovation challenge (Top 10 finish).  
+</details>
+
+<details>
+<summary>📌 Biocon (Software Development Intern) | Jun 2019 - Aug 2019</summary>
+- Built an **Azure HR chatbot** with QnA Maker + Azure Bot Framework.  
+- Performed **sentiment analysis** on chatbot conversations.  
+- Created Power BI dashboards tracking 80+ interns weekly.  
+</details>
+
+---
+
+### 🧪 Projects
+- **Debiased Agent** → AI bias detection system using Transformers + fairness metrics.  
+- **PCOSWeightloss Agent** → Personalized health AI using OpenAI API + MongoDB.  
+- **Introspeak** → Voice-powered philosophical AI with Whisper + GPT-4.  
+- **Constraintbuyer** → Beauty recommender with Claude 3.5 + RAG + Streamlit.  
+- **Speech Emotion Recognition** → Classifies emotions from voice data.   
+
+---
+
+### 📊 GitHub Fun
+![Saahi's GitHub stats](https://github-readme-stats.vercel.app/api?username=saahiwrite&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saahiwrite&layout=compact&theme=tokyonight)  
+
+---
+
+### 🌐 Let’s Connect
+- 📧 Email: **saahithi398@gmail.com**  
+- 💼 [LinkedIn](https://linkedin.com/in/saahithi-mallarapu)  
+- 🐙 [GitHub](https://github.com/saahiwrite)  
+
+---
+
+⭐️ Fun fact: I believe AI should not only be **powerful** but also **playful and impactful** – I’m always experimenting with quirky AI side-projects!
 
 Here are a few highlighted projects from my GitHub:
 
