@@ -25,23 +25,23 @@ I love building **AI-powered solutions** that make tech more human, accessible, 
 ### 💼 Work Experience
 <details>
 <summary>📌 EmmyGency (Data Scientist) | Jul 2023 - Dec 2024</summary>
-- Built a **15B-parameter small language model** for cardiovascular emergency response.  
-- Developed an **image-to-text medical symptom detection tool** with Django + Firebase.  
-- Enhanced model efficiency with RL + data augmentation (reduced processing by 30%).  
+-  Built a **15B-parameter small language model** for cardiovascular emergency response.  
+-  Developed an **image-to-text medical symptom detection tool** with Django + Firebase.  
+-  Enhanced model efficiency with RL + data augmentation (reduced processing by 30%).  
 </details>
 
 <details>
 <summary>📌 Bank of America (Technology Analyst) | May 2021 - Jan 2023</summary>
-- Designed scalable reporting systems, improving cross-pipeline analytics by 15%.  
-- Created automated unstructured data analysis pipelines with Python + SQL.  
-- Led a cross-functional team in a company innovation challenge (Top 10 finish).  
+-  Designed scalable reporting systems, improving cross-pipeline analytics by 15%.  
+-  Created automated unstructured data analysis pipelines with Python + SQL.  
+-  Led a cross-functional team in a company innovation challenge (Top 10 finish).  
 </details>
 
 <details>
 <summary>📌 Biocon (Software Development Intern) | Jun 2019 - Aug 2019</summary>
-- Built an **Azure HR chatbot** with QnA Maker + Azure Bot Framework.  
-- Performed **sentiment analysis** on chatbot conversations.  
-- Created Power BI dashboards tracking 80+ interns weekly.  
+-  Built an **Azure HR chatbot** with QnA Maker + Azure Bot Framework.  
+-  Performed **sentiment analysis** on chatbot conversations.  
+-  Created Power BI dashboards tracking 80+ interns weekly.  
 </details>
 
 ---
@@ -56,7 +56,6 @@ I love building **AI-powered solutions** that make tech more human, accessible, 
 ---
 
 ### 📊 GitHub Fun
-![Saahi's GitHub stats](https://github-readme-stats.vercel.app/api?username=saahiwrite&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saahiwrite&layout=compact&theme=tokyonight)  
 
 ---
