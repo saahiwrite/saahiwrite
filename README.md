@@ -53,11 +53,6 @@ I love building **AI-powered solutions** that make tech more human, accessible, 
 
 ---
 
-### 📊 GitHub Fun
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saahiwrite&layout=compact&theme=tokyonight)  
-
----
-
 ### 🌐 Let’s Connect
 - 📧 Email: **saahithi398@gmail.com**  
 - 💼 [LinkedIn](https://linkedin.com/in/saahithi-mallarapu)  
