@@ -94,8 +94,6 @@ I’m open to collaboration, research discussions, or career mentorship. Feel fr
 
 ---
 
-*This README is inspired by the GitHub profile of Saahithi Mallarapu (@saahiwrite)—currently an MSAI student at Northeastern University with standout projects like “Personal_3D_Animated_Portfolio” and “multimodal-emotion-detection.”* :contentReference[oaicite:0]{index=0}
-
 <!--
 **saahiwrite/saahiwrite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
